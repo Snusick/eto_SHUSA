@@ -1,3 +1,55 @@
 html{
-    background: gold;
+    background: yellow;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+}
+.imgl{
+    width: 100vh;
+    height: 450px;
+}
+.divl{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ponos{
+    display: flex;
+    flex: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    box-shadow: 10px 10px 10px 3px rgb(red, green, blue);
+}
+.fisyka{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+}
+.himia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    box-shadow: 10px 10px 10px 3px rgb(gray, white, gray);
+}
+.matimatika{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    box-shadow: 10px 10px 10px 3px rgb(gray, white, gray);
+}
+.fisyka img{
+    width: 400px;
+}
+.himia img{
+    width: 400px;
+}
+.matimatika img{
+    width: 400px;
 }
