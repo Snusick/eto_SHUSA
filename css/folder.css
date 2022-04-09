@@ -21,7 +21,7 @@ header{
     flex: column;
     justify-content: space-between;
     align-items: center;
-    background-color: blue;
+    background-color: black;
     box-shadow: 10px 10px 10px 3px rgb(red, green, blue);
 }
 .fisyka{
